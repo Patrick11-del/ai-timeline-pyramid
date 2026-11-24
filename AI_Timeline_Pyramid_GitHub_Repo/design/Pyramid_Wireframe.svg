@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10243a"/><stop offset="1" stop-color="#080f1b"/></linearGradient><linearGradient id="tier" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#183e55"/><stop offset="1" stop-color="#25304d"/></linearGradient></defs>
+<rect width="1200" height="900" rx="28" fill="url(#bg)"/>
+<text x="600" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" letter-spacing="5" fill="#8bded9">AI INSIGHTS · WIREFRAME</text>
+<text x="600" y="120" text-anchor="middle" font-family="Georgia,serif" font-size="44" fill="#f2f6fa">The Timeline Pyramid</text>
+<g fill="url(#tier)" stroke="#8bded9" stroke-opacity=".55" stroke-width="2">
+<polygon points="440,170 760,170 800,285 400,285"/>
+<polygon points="370,300 830,300 890,430 310,430"/>
+<polygon points="280,445 920,445 980,590 220,590"/>
+<polygon points="190,605 1010,605 1075,750 125,750"/>
+<polygon points="110,765 1090,765 1110,845 90,845"/>
+</g>
+<g font-family="Arial,sans-serif" text-anchor="middle" fill="#f3f7fb">
+<text x="600" y="205" font-size="22" font-weight="700">5 · PRESENT &amp; OPEN QUESTIONS</text><text x="600" y="235" font-size="14" fill="#bad0df">[2026 report] [AGI / future]</text>
+<text x="600" y="340" font-size="22" font-weight="700">4 · GENERATIVE AI &amp; LLMs</text><text x="600" y="370" font-size="14" fill="#bad0df">[GANs] [Transformer] [BERT] [GPT-3] [ChatGPT] [GPT-4 / 4o] [Reasoning]</text>
+<text x="600" y="490" font-size="22" font-weight="700">3 · MACHINE LEARNING &amp; DEEP LEARNING</text><text x="600" y="522" font-size="14" fill="#bad0df">[Deep Blue] [DARPA] [Netflix] [ImageNet] [Watson] [AlexNet]</text>
+<text x="600" y="655" font-size="22" font-weight="700">2 · SYMBOLIC AI &amp; EARLY SYSTEMS</text><text x="600" y="688" font-size="14" fill="#bad0df">[ELIZA] [AI Winter I] [XCON] [Backprop] [AI Winter II]</text>
+<text x="600" y="802" font-size="22" font-weight="700">1 · FOUNDATIONS</text><text x="600" y="828" font-size="14" fill="#bad0df">[Ancient ideas] [1943 neuron model] [Turing] [Dartmouth] [Logic Theorist]</text>
+</g>
+<text x="600" y="880" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#849cb1">Each milestone is a clickable card → detail panel with what / why / subfield / impact / sources</text>
+</svg>
